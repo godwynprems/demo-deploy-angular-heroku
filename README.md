@@ -28,3 +28,13 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 Reference: https://medium.com/@hellotunmbi/how-to-deploy-angular-application-to-heroku-1d56e09c5147
+
+Commands:
+
+npm install @angular/cli@latest @angular/compiler-cli --save-dev
+npm install enhanced-resolve@3.3.0 --save-dev
+
+
+git add .
+git commit -m "initial commit"
+git push
